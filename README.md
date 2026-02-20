@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BCA (Hons) Student  
+- 🎓 BCA (Hons & Research) Student  
 - 💻 Passionate about Full Stack Development  
 - 📊 Exploring Data Analytics & Artificial Intelligence  
 - 🔥 Focused on building real-world projects  
@@ -23,7 +23,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,excel,java,html,css,js,php,mysql,git,github,vscode,powerbi" />
 </p>
 
 ---
@@ -44,6 +44,17 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="mailto:arijitmodak19age@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="tel:+917047735629">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
