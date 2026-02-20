@@ -22,10 +22,15 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,powerbi,pandas,numpy,mongodb,microsoft-excel" />
+</p> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,powerbi,mongodb" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40" height="40"/>
 </p>
-
 ---
 
 ## 🚀 Current Focus
