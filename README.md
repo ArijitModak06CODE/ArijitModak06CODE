@@ -23,7 +23,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,excel,java,html,css,js,php,mysql,git,github,vscode,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,powerbi,pandas,numpy,mongodb,microsoft-excel" />
 </p>
 
 ---
