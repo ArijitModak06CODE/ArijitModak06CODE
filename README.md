@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arijit Modak</h1>
 
-<!--
-**ArijitModak06CODE/ArijitModak06CODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | AI & Data Enthusiast | BCA (Hons) Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Python+%7C+Power+BI+%7C+AI;Building+Data-Driven+Projects;Open+To+Internships" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🎓 BCA (Hons) Student  
+- 💻 Passionate about Full Stack Development  
+- 📊 Exploring Data Analytics & Artificial Intelligence  
+- 🔥 Focused on building real-world projects  
+- 🌍 Dream: Become a top Data Analyst  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,powerbi" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 📌 Data Analytics Projects  
+- 📌 Full Stack Applications  
+- 📌 AI-based Solutions  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>
