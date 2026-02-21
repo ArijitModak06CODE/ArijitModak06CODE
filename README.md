@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Python+%7C+Power+BI+%7C+AI;Building+Data-Driven+Projects;Open+To+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Advance+Python+%7C+Power+BI+%7C+AI;Building+Data-Driven+Projects;Open+To+Internships" />
 </p>
 
 ---
