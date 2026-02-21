@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Modak</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI & Data Enthusiast | BCA (Hons) Student
+🚀 Full Stack Developer | AI & Data Enthusiast | BCA (Honours & Research) Student
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BCA (Hons & Research) Student  
+- 🎓 BCA Student  
 - 💻 Passionate about Full Stack Development  
 - 📊 Exploring Data Analytics & Artificial Intelligence  
 - 🔥 Focused on building real-world projects  
