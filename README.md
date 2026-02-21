@@ -67,17 +67,15 @@
 
 ---
 
-### 🌐 Web Development Intern – CodSoft  
-- Built responsive UI using HTML, CSS, JavaScript  
-- Developed interactive frontend components  
-
----
-
 ### 🧑‍💻 Full Stack Intern – Databits Technologia  
 - Worked with HTML, CSS, JS, React, PHP, MySQL  
 - Gained deployment & hosting experience  
 
 ---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -126,6 +124,3 @@
 </p>
 
 ---
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
