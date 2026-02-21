@@ -79,13 +79,17 @@
 
 ---
 
-## 🏅 Certifications
+---
 
-- 🏆 Oracle Certified Python Programmer  
-- 📈 Python Essentials 2  
-- 📊 Data Visualization Using Python  
-- 🎓 TCS iON Career Edge – IT Primer  
-- 🧾 SCOA Data Entry Operator  
+## 🏆 Achievements & Highlights
+
+- 🎖️ Selected as **Campus Ambassador – COMET’26, IIT Roorkee**
+- 🚀 Chosen for **Microsoft Elevate Internship Program (AICTE)**
+- 💼 1+ Year Experience as **MERN Stack Developer Intern**
+- 🏅 Oracle Certified Python Programmer
+- 📊 Completed Real-World Data Analytics Projects using Power BI
+- 🌐 Developed Multiple Full Stack Web Applications
+- 🤝 Active Member of Google Developer Program
 
 ---
 
