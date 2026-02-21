@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arijit Modak</h1>
-<body bgcolor= "yellow">
+
 <h3 align="center">
 🚀 Full Stack Developer | AI & Data Enthusiast | BCA (Honours & Research) Student
 </h3>
