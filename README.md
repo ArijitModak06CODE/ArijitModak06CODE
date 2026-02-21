@@ -86,7 +86,7 @@
 - 🎖️ Selected as **Campus Ambassador – COMET’26, IIT Roorkee**
 - 🚀 Chosen for **Microsoft Elevate Internship Program (AICTE)**
 - 💼 1+ Year Experience as **MERN Stack Developer Intern**
-- 🏅 Oracle Certified Python Programmer
+- 🏅 Oracle Certified Programmer
 - 📊 Completed Real-World Data Analytics Projects using Power BI
 - 🌐 Developed Multiple Full Stack Web Applications
 - 🤝 Active Member of Google Developer Program
