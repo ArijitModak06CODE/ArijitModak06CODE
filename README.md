@@ -100,11 +100,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArijitModak6CODE&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ArijitModak6CODE&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=tokyonight)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArijitModak6CODE&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArijitModak06CODE&theme=tokyo-night)
 
 ---
 
