@@ -93,9 +93,15 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievement
 
-![Pull Shark](https://github.com/users/ArijitModak06CODE/achievements/pull-shark)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+</p>
+
+<p align="center">
+🦈 Pull Shark – Awarded for successfully merging a Pull Request.
+</p>
 
 ---
 
