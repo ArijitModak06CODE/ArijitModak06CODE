@@ -49,23 +49,17 @@
 - Managed student outreach & coordination  
 - Developed leadership & communication skills  
 
----
-
 ### 📊 Microsoft Elevate Intern (Power BI) – AICTE  
 📅 Feb 2026 – Present  
 - Built interactive dashboards using Power BI  
 - Performed data cleaning & visualization  
 - Worked on real-world analytics projects  
 
----
-
 ### 💻 MERN Stack Developer Intern – Codec Technologies  
 📅 Jan 2025 – Feb 2026  
 - Developed full-stack applications (MongoDB, Express, React, Node)  
 - Built REST APIs & managed databases  
 - Applied clean code & debugging practices  
-
----
 
 ### 🧑‍💻 Full Stack Intern – Databits Technologia  
 - Worked with HTML, CSS, JS, React, PHP, MySQL  
