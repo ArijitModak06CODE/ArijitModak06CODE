@@ -124,3 +124,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ArijitModak06CODE/ArijitModak06CODE/blob/output/github-contribution-grid-snake.svg)
