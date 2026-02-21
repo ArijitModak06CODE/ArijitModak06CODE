@@ -95,7 +95,7 @@
 
 ## 🏆 GitHub Achievements
 
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark_Achieved-2ea44f?style=for-the-badge&logo=github)
+![Pull Shark](https://github.com/users/ArijitModak06CODE/achievements/pull-shark)
 
 ---
 
