@@ -14,7 +14,7 @@
 
 - 🎓 BCA (Hons) Student @ MAKAUT  
 - 💻 Passionate about Full Stack Development  
-- 📊 Skilled in Python, NumPy, Pandas & Data Analytics  
+- 📊 Skilled in Web Technologies, Python, NumPy, Pandas & Data Analytics  
 - 🔥 Building real-world projects  
 - 🌍 Aspiring Data Analyst & AI-focused Developer  
 
