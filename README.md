@@ -12,12 +12,30 @@
 
 ## 🚀 About Me
 
-🎓 BCA (Hons & Research) Student @ MAKAUT (In-House On Campus)  
-💻 Passionate about Full Stack Development & AI  
-📊 Skilled in Python, NumPy, Pandas, Power BI & Data Analytics  
-🔥 Love building real-world impactful projects  
-🌍 Aspiring Data Analyst & AI-Focused Developer  
-⚡ Strong in Problem Solving & Clean Code Practices  
+<table>
+<tr>
+<td width="60%">
+  
+🎓 BCA (Hons & Research) Student @ MAKAUT (In-House On Campus) 
+
+💻 Passionate about Full Stack Development  
+
+📊 Skilled in Web Technologies, Python, NumPy, Pandas & Data Analytics 
+
+🔥 Love building real-world impactful projects   
+
+🌍 Aspiring Data Analyst & AI-focused Developer 
+
+⚡ Strong in Problem Solving & Clean Code Practices 
+
+</td>
+
+<td width="40%">
+<img src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif" width="100%"/>
+</td>
+
+</tr>
+</table>  
 
 ---
 
