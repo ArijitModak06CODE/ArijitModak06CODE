@@ -94,8 +94,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical" height="165"/>
 </p>
 
 <p align="center">
