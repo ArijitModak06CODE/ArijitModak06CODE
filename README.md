@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BCA (Hons) Student @ MAKAUT  
+- 🎓 BCA (Hons) Student @ MAKAUT(In-House On Campus)  
 - 💻 Passionate about Full Stack Development  
 - 📊 Skilled in Web Technologies, Python, NumPy, Pandas & Data Analytics  
 - 🔥 Building real-world projects  
