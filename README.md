@@ -62,12 +62,12 @@
 
 ## 💼 Professional Experience
 
-### ☁️ Microsoft Azure Intern — AICTE Collaboration
+### ☁️ Microsoft Azure Intern — AICTE
 
 * Gained practical exposure to Microsoft Azure cloud technologies.
 * Learned cloud computing concepts and Azure services.
 
-### 📊 Microsoft Power BI Intern — AICTE Collaboration
+### 📊 Microsoft Power BI Intern — AICTE
 
 * Practiced data visualization and analytics using Power BI.
 * Worked on interactive dashboards and data-driven insights.
@@ -77,7 +77,7 @@
 * Explored data analytics techniques and AI-assisted workflows.
 * Developed an understanding of data interpretation and analysis.
 
-### 📈 Data Analytics Intern — Vodafone Idea (Vi), AICTE Collaboration
+### 📈 Data Analytics Intern — Vodafone Idea (Vi), AICTE
 
 * Explored data analytics concepts and their practical applications.
 * Learned about data-driven decision-making.
