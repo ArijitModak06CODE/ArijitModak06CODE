@@ -113,29 +113,25 @@
 
 ## 🏆 Achievements & Certifications
 
-* 🌐 Google AI Essentials Certified
-* 💡 Google Prompting Essentials Certified
-* 🏅 Oracle Certified — 5 Certifications
-* 💻 NIELIT O Level Certified
-* 🛰️ IIRS–ISRO Certified
-* 🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
+🌐 Google AI Essentials Certified
+
+💡 Google Prompting Essentials Certified
+
+🏅 Oracle Certified — 5 Certifications
+
+💻 NIELIT O Level Certified
+
+🛰️ IIRS–ISRO Certified
+
+🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true&card_width=320">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true&card_width=320">
-    <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true" height="180" width="420" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true" height="180" width="420" alt="GitHub Streak" />
 </p>
 
 ---
@@ -172,4 +168,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" alt="Footer" />
 </p>
-
