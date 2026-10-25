@@ -92,10 +92,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true" width="400" alt="GitHub Streak" />
-
-<img src="https://ghchart.rshah.org/00F7FF/ArijitModak06CODE" width="650" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true&card_width=450&hide_title=false" width="420" height="170" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true&height=170&width=450" width="420" height="170" alt="GitHub Streak" />
 
 </div>
 
