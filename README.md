@@ -96,20 +96,24 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true"
-    alt="Arijit's GitHub Stats"
-    height="165"
+    alt="GitHub Stats"
+    height="180"
   />
   <img
     src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true"
-    alt="Arijit's GitHub Streak"
-    height="165"
+    alt="GitHub Streak"
+    height="180"
   />
 </p>
 
+---
+
+## 📈 GitHub Contribution Graph
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArijitModak06CODE&theme=tokyo-night&hide_border=true"
-    alt="Arijit's GitHub Activity Graph"
+    src="https://ghchart.rshah.org/00F7FF/ArijitModak06CODE"
+    alt="GitHub Contribution Calendar"
     width="100%"
   />
 </p>
@@ -119,13 +123,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arijit-modak--web26">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="mailto:arijitmodak19age@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/arijit-modak--web26">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arijitmodak19age@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
