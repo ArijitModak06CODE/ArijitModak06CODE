@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Arijit%20Modak&fontSize=42&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=58&descSize=16&descColor=ffffff" width="100%" alt="Header" />
+<img src="header.svg" width="100%" alt="Arijit Modak - Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=20&center=true&vCenter=true&width=420&lines=Full+Stack+Web+Developer;Python+Developer;Power+BI+%7C+AI+Enthusiast;Open+To+Internships+%26+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=20&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Python+Developer;Power+BI+%7C+AI+Enthusiast;Open+To+Internships+%26+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -117,6 +117,6 @@
 
 ⭐ If you like my work, consider giving a star to my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" alt="Footer" />
+<img src="footer.svg" width="100%" alt="Footer" />
 
 </div>
