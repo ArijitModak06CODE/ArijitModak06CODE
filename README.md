@@ -113,17 +113,17 @@
 
 ## 🏆 Achievements & Certifications
 
-🏅 Oracle Certified — 5 Certifications
-
-🛰️ IIRS–ISRO Certified
-
-🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
-
 🌐 Google AI Essentials Certified
 
 💡 Google Prompting Essentials Certified
 
+🏅 Oracle Certified — 5 Certifications
+
 💻 NIELIT O Level Certified
+
+🛰️ IIRS–ISRO Certified
+
+🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
 
 ---
 
