@@ -59,12 +59,12 @@
 
 ## 💼 Professional Experience
 
-### ☁️ Microsoft Azure Internship — AICTE Collaboration
+### ☁️ Microsoft Azure Intern — AICTE Collaboration
 
 * Gained practical exposure to Microsoft Azure cloud technologies.
 * Explored cloud computing concepts and Azure services.
 
-### 📊 Microsoft Power BI Internship — AICTE Collaboration
+### 📊 Microsoft Power BI Intern — AICTE Collaboration
 
 * Created interactive Power BI dashboards.
 * Practiced data cleaning, visualization and analytics.
@@ -87,32 +87,13 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-### 🏅 Oracle Certifications
-
-* Oracle Cloud Infrastructure AI Foundations Associate
-* Oracle Fusion AI Agent Studio Foundations
-* Oracle Cloud Applications EPM Process Essentials
-* Oracle Certification 4
-* Oracle Certification 5
-
-### 🛰️ IIRS–ISRO
-
-* Completed an IIRS–ISRO Certificate Programme.
-
-### 🚀 MAKAUT Innovatex 1.0
-
-* Participated in the MAKAUT Innovatex 1.0 Hackathon.
-
-### 🌐 Google Certifications
-
-* Google AI Essentials
-* Google Prompting Essentials
-
-### 💻 NIELIT
-
-* NIELIT Certification — O Level
+🏅 Oracle Certified — 5 Certifications
+🛰️ IIRS–ISRO Certified
+🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
+🌐 Google Certified — AI Essentials & Prompting Essentials
+💻 NIELIT Certified — O Level
 
 ---
 
@@ -152,5 +133,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:arijitmodak19age@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badg
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" alt="Footer" />
+</p>
 
