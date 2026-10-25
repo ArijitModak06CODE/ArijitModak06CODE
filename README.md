@@ -65,11 +65,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🌐 **[My Personal Portfolio](YOUR-PORTFOLIO-LINK)** | My personal portfolio website showcasing my projects, skills and experience | HTML, CSS, JS |
 | 🎓 **University Front Page Generator** | Generates assignment front pages for MAKAUT, Jadavpur University and University of Calcutta | Python, HTML, CSS, JS, ReportLab |
 | 📄 **Resume Builder** | Create professional resumes with multiple templates and download them | HTML, CSS, JS |
 | 📊 **Credit Card Financial Dashboard** | Power BI dashboard to analyze credit card data and find insights | Power BI, SQL |
-
-<!-- Project link thakle add koro: [Live Demo](link) · [Source](link) -->
 
 ---
 
