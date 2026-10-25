@@ -62,15 +62,15 @@
 
 ## 💼 Professional Experience
 
-### ☁️ Microsoft Azure Intern — AICTE
-
-* Gained practical exposure to Microsoft Azure cloud technologies.
-* Learned cloud computing concepts and Azure services.
-
-### 📊 Microsoft Power BI Intern — AICTE
+### 📊 Microsoft Power BI Intern 
 
 * Practiced data visualization and analytics using Power BI.
 * Worked on interactive dashboards and data-driven insights.
+  
+### ☁️ Microsoft Azure Intern 
+
+* Gained practical exposure to Microsoft Azure cloud technologies.
+* Learned cloud computing concepts and Azure services.
 
 ### 🤖 Data Analytics with AI Intern — BharatCares
 
