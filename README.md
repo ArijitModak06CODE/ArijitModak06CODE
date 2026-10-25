@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋, I'm Arijit Modak</h1>
 
-<p align="center">
-  <b>Full Stack Developer | AI & Data Enthusiast</b><br>
-  BCA (Hons & Research) Student @ MAKAUT
-</p>
+<h3 align="center">
+🚀 Full Stack Developer | AI & Data Enthusiast | BCA (Hons & Research) @ MAKAUT
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&lines=Python+Developer;Web+Developer;Power+BI+Enthusiast;Exploring+AI+%26+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+Developer;Power+BI+%7C+AI+Enthusiast;Building+Real-World+Projects;Open+To+Internships+%26+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 BCA (Hons & Research) at MAKAUT
-* 💻 Interested in Web and Python Development
-* 📊 Exploring Data Analytics and Power BI
-* 🤖 Interested in AI and Generative AI
-* 🚀 Building practical projects
-* 🌱 Always learning new technologies
+* 🎓 BCA (Hons & Research) Student at MAKAUT
+* 💻 Interested in Full Stack Development and Python Development
+* 📊 Exploring Data Analytics, Power BI, NumPy and Pandas
+* 🤖 Interested in Artificial Intelligence and Generative AI
+* 🔥 Love building practical, real-world projects
+* 🌱 Always learning and improving my technical skills
 
 ---
 
 ## 🧠 Currently
 
-* 🔭 Working on Data Analytics and AI projects
+* 🔭 Working on Data Analytics and AI-based projects
 * 🌱 Learning Advanced Python and Web Development
-* 🤝 Open to collaboration
+* 👯 Open to collaborating on Web Development and Data Analytics projects
 * 💬 Ask me about Python, Web Development and Power BI
 
 ---
@@ -35,35 +34,29 @@
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### 📊 Data Analytics & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
@@ -71,27 +64,27 @@
 
 ### 📊 Microsoft Power BI Intern
 
-* Practiced data visualization and analytics.
-* Worked with interactive dashboards and insights.
+* Practiced data visualization and analytics using Power BI.
+* Worked on interactive dashboards and data-driven insights.
 
 ### ☁️ Microsoft Azure Intern
 
-* Explored Microsoft Azure cloud technologies.
-* Learned cloud computing concepts and services.
+* Gained practical exposure to Microsoft Azure cloud technologies.
+* Learned cloud computing concepts and Azure services.
 
 ### 🤖 Data Analytics with AI Intern — BharatCares
 
-* Explored data analytics and AI-assisted workflows.
-* Practiced data interpretation and analysis.
+* Explored data analytics techniques and AI-assisted workflows.
+* Developed an understanding of data interpretation and analysis.
 
 ### 📈 Data Analytics Intern — Vodafone Idea (Vi), AICTE
 
-* Explored practical data analytics concepts.
+* Explored data analytics concepts and their practical applications.
 * Learned about data-driven decision-making.
 
 ### 🧑‍💻 Full Stack Web Development Intern — Databits Technologia
 
-* Gained experience in web development.
+* Gained experience in web development technologies.
 * Worked with HTML, CSS, JavaScript, PHP and MySQL.
 
 ---
@@ -100,27 +93,21 @@
 
 ### 🎓 University Front Page Generator
 
-A web application that generates assignment front pages for:
-
-* MAKAUT
-* Jadavpur University
-* University of Calcutta
-
-**Technologies:** Python, HTML, CSS, JavaScript, ReportLab
+* A web application that generates assignment front pages for MAKAUT, Jadavpur University and the University of Calcutta.
+* Allows users to enter academic details and generate a formatted front page.
+* **Technologies:** Python, HTML, CSS, JavaScript, ReportLab
 
 ### 📄 Resume Builder Web Application
 
-* Create professional resumes using different templates.
-* Customize resume sections and download resumes.
-
-**Technologies:** HTML, CSS, JavaScript
+* A web application for creating professional resumes using different templates.
+* Supports customizable resume sections and downloadable resumes.
+* **Technologies:** HTML, CSS, JavaScript
 
 ### 📊 Credit Card Financial Dashboard
 
-* Analyzes credit card financial data.
-* Visualizes key metrics using dashboards.
-
-**Technologies:** Power BI, SQL
+* A Power BI dashboard project for analyzing credit card financial data.
+* Helps visualize key metrics and identify data-driven insights.
+* **Technologies:** Power BI, SQL
 
 ---
 
@@ -131,31 +118,29 @@ A web application that generates assignment front pages for:
 * 🏅 Oracle Certified — 5 Certifications
 * 💻 NIELIT O Level Certified
 * 🛰️ IIRS–ISRO Certified
-* 🚀 MAKAUT Innovatex 1.0 Hackathon Participant
+* 🚀 Participant — MAKAUT Innovatex 1.0 Hackathon
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-    width="100%"
-  />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true&card_width=320">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-    width="100%"
-  />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true&card_width=320">
+    <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
   <img
@@ -171,9 +156,8 @@ A web application that generates assignment front pages for:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arijit-modak--web26">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <br><br>
   <a href="mailto:arijitmodak19age@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -182,9 +166,10 @@ A web application that generates assignment front pages for:
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" alt="Footer" />
 </p>
+
