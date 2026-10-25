@@ -94,12 +94,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArijitModak06CODE&show_icons=true&theme=radical&hide_border=true"
+    alt="Arijit's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ArijitModak06CODE&theme=radical&hide_border=true"
+    alt="Arijit's GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArijitModak06CODE&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArijitModak06CODE&theme=tokyo-night&hide_border=true"
+    alt="Arijit's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
