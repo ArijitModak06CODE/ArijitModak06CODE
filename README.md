@@ -72,17 +72,17 @@
 * Gained practical exposure to Microsoft Azure cloud technologies.
 * Learned cloud computing concepts and Azure services.
 
-### 🤖 Data Analytics with AI Intern — BharatCares
+### 🤖 Data Analytics with AI Intern - BharatCares
 
 * Explored data analytics techniques and AI-assisted workflows.
 * Developed an understanding of data interpretation and analysis.
 
-### 📈 Data Analytics Intern — Vodafone Idea (Vi), AICTE
+### 📈 Data Analytics Intern - Vodafone Idea (Vi), AICTE
 
 * Explored data analytics concepts and their practical applications.
 * Learned about data-driven decision-making.
 
-### 🧑‍💻 Full Stack Web Development Intern — Databits Technologia
+### 🧑‍💻 Full Stack Web Development Intern - Databits Technologia
 
 * Gained experience in web development technologies.
 * Worked with HTML, CSS, JavaScript, PHP and MySQL.
