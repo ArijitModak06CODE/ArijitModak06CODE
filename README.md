@@ -68,6 +68,7 @@
 | 🌐 **[My Personal Portfolio](https://arijit-pfolio.vercel.app/)** | My personal portfolio website showcasing my projects, skills and experience | HTML, CSS, JS |
 | 🎓 **[University Front Page Generator](https://wb-univ-frontpage.netlify.app/)** | Generates assignment front pages for MAKAUT, Jadavpur University and University of Calcutta | Python, HTML, CSS, JS, ReportLab |
 | 📄 **[Resume Builder](https://resume-builder-arijitm.vercel.app/)** | Create professional resumes with multiple templates and download them | HTML, CSS, JS |
+| 🔗 **[PDF Page Merger](https://pdf-page-merger-wine.vercel.app/)** | Merge pages from multiple PDF files into a single PDF document | HTML, CSS, JS |
 | 📊 **[Credit Card Financial Dashboard](https://github.com/ArijitModak06CODE/Credit-Card-Financial-Dashboard-.git)** | Power BI dashboard to analyze credit card data and find insights | Power BI, SQL |
 
 ---
